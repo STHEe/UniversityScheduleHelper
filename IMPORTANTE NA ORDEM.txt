@@ -1,0 +1,2 @@
+PARA INSTALAR CHROMIUM
+node node_modules/puppeteer/install.js
